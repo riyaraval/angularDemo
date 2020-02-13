@@ -1,0 +1,8 @@
+<table>
+        <tr><td>ID:</td><td><label>{{data.id}}</label></td></tr>
+        <tr><td>Name:</td><td><input type="text" [(ngModel)]="data.name"  placeholder="name"></td></tr>
+        <tr><td>Semester:</td><td><input type="text" [(ngModel)]="data.semester" placeholder="semester"></td></tr>
+        <tr><td></td><td>
+            <button class="btn btn-success btn-lg btn-block" (click)="updateData()">Update</button>
+        </td></tr>
+</table>

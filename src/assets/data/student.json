@@ -1,0 +1,939 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 2,
+      "name": "nirali",
+      "semester": 7
+    },
+    {
+      "id": 3,
+      "name": "mehul b",
+      "semester": 7
+    },
+    {
+      "id": 5,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 6,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 7,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 8,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 9,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 10,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 11,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 12,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 13,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 14,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 15,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 16,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 17,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 18,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 19,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 20,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 21,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 22,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 23,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 24,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 25,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 26,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 27,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 28,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 29,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 30,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 31,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 32,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 33,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 34,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 35,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 36,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 37,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 38,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 39,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 40,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 41,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 42,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 43,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 44,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 45,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 46,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 47,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 1,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 2,
+      "name": "nirali",
+      "semester": 7
+    },
+    {
+      "id": 3,
+      "name": "mehul b",
+      "semester": 7
+    },
+    {
+      "id": 5,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 6,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 7,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 8,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 9,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 10,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 11,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 12,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 13,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 14,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 15,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 16,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 17,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 18,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 19,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 20,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 21,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 22,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 23,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 24,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 25,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 26,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 27,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 28,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 29,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 30,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 31,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 32,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 33,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 34,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 35,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 36,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 37,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 38,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 39,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 40,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 41,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 42,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 43,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 44,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 45,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 46,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 47,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "name": "aaaaa",
+      "semester": "9",
+      "id": 48
+    },
+    {
+      "id": 1,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 2,
+      "name": "nirali",
+      "semester": 7
+    },
+    {
+      "id": 3,
+      "name": "mehul b",
+      "semester": 7
+    },
+    {
+      "id": 5,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 6,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 7,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 8,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 9,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 10,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 11,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 12,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 13,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 14,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 15,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 16,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 17,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 18,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 19,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 20,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 21,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 22,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 23,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 24,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 25,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 26,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 27,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 28,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 29,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 30,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 31,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 32,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 33,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 34,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 35,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 36,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 37,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 38,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 39,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 40,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 41,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 42,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 43,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 44,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 45,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 46,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 47,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "name": "aaaaa",
+      "semester": "9",
+      "id": 48
+    },
+    {
+      "id": 1,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 2,
+      "name": "nirali",
+      "semester": 7
+    },
+    {
+      "id": 3,
+      "name": "mehul b",
+      "semester": 7
+    },
+    {
+      "id": 5,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 6,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 7,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 8,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 9,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 10,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 11,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 12,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 13,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 14,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 15,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 16,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 17,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 18,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 19,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 20,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 21,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 22,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 23,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 24,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 25,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 26,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 27,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 28,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 29,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 30,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 31,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 32,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 33,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 34,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 35,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 36,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 37,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 38,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 39,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 40,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 41,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "id": 42,
+      "name": "riya",
+      "semester": 8
+    },
+    {
+      "id": 43,
+      "name": "nirali",
+      "semester": 8
+    },
+    {
+      "id": 44,
+      "name": "mehul",
+      "semester": 8
+    },
+    {
+      "id": 45,
+      "name": "kishan",
+      "semester": 8
+    },
+    {
+      "id": 46,
+      "name": "kalp",
+      "semester": 7
+    },
+    {
+      "id": 47,
+      "name": "ayushi",
+      "semester": 7
+    },
+    {
+      "name": "aaaaa",
+      "semester": "9",
+      "id": 48
+    }
+  ]
+}

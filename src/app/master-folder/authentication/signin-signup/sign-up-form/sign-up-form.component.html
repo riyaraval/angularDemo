@@ -1,0 +1,52 @@
+<div class="container-fluid">
+    <h1>Registration Form</h1>
+
+    <form [formGroup]="registrationForm" (ngSubmit)="addUserData()">
+        <!-- USERNAME -->
+        <div class="form-group">
+            <label class="control-lable">Name</label>
+            <input type="text" class="form-control" formControlName="name">
+        </div>
+        <div *ngIf="Name.invalid && Name.touched" class="alert-danger">
+            <div *ngIf="Name.errors?.minlength" class="alert-danger">name has atleast 4 char
+                long</div>
+            <div *ngIf="Name.errors?.required" class="alert-danger">Name required</div>
+        </div>
+        <!-- EMAIL -->
+        <div class="form-group">
+            <label>Email</label>
+            <input type="text" class="form-control" formControlName="email" >
+        </div>
+        <div *ngIf="Email.invalid && Email.touched" class="alert-danger">
+            <div *ngIf="Email.errors?.email" class="alert-danger">Email is not proper</div>
+            <div *ngIf="Email.errors?.required" class="alert-danger">Email required</div>
+        </div>
+        <!-- PASSWORD -->
+        <div class="form-group">
+            <label>Password</label>
+            <input type="password" class="form-control" formControlName="password">
+        </div>
+        <div *ngIf="Password.invalid && Password.touched" class="alert-danger">
+            <div *ngIf="Password.errors?.required" class="alert-danger">Password required</div>
+        </div>
+        <!-- CONFIRMPASSWORD -->
+        <div class="form-group">
+            <label>ConfirmPassword</label>
+            <input type="password" class="form-control" (keyup)="onKey($event)" ng-required> 
+            <br />
+            <div class="alert-danger">{{err_msg}}</div>
+        </div>
+        <!-- <div *ngIf="cmpass.value.invalid && cmpass.value.touched" class="alert-danger">
+            <div *ngIf="cmpass.value.errors?.required" class="alert-danger">Password required</div>
+        </div> -->
+       
+        <button class="btn btn-primary" type="submit" [disabled]="registrationForm.invalid">Signin</button>
+        &nbsp;&nbsp;&nbsp;
+        <button class="btn btn-primary" type="reset" routerLink='/home' RouterLinkActive='active'>Cancle</button>
+        <br>
+        <nav>
+            <a routerLink='/signinsignup/signin' routerLinkActive="active" class="btn">Already have account?</a>
+        </nav>
+
+    </form>
+</div>
